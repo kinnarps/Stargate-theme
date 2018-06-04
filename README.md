@@ -17,13 +17,13 @@
 
 ```
 $body-bg:                   $white;
-$text-color:					      $black;
-$link-color:					      $black;
-$link-hover-color:				  $graphite-grey;
-$link-hover-decoration:			none;
+$text-color:                $black;
+$link-color:                $black;
+$link-hover-color:          $graphite-grey;
+$link-hover-decoration:     none;
 
-$link-color-light:	        $white;
-$link-hover-color-light :   $black;
+$link-color-light:          $white;
+$link-hover-color-light:    $black;
 ```
 
 ### Links
