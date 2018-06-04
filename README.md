@@ -51,7 +51,18 @@ a.light{
 
 ### Buttons
 `.btn .btn-default`
-![Button default](https://github.com/kinnarps/Stargate-theme/blob/master/resources/button_default.PNG)
+![Button default](https://github.com/kinnarps/Stargate-theme/blob/master/resources/button_default.PNG)<br />
 
 `.btn .btn-primary`
-![Button primary](https://github.com/kinnarps/Stargate-theme/blob/master/resources/button_primary.PNG)
+![Button primary](https://github.com/kinnarps/Stargate-theme/blob/master/resources/button_primary.PNG)<br />
+
+`.btn .btn-blue`
+![Button blue](https://github.com/kinnarps/Stargate-theme/blob/master/resources/button_blue.PNG)<br />
+
+`.btn .btn-pink`
+![Button pink](https://github.com/kinnarps/Stargate-theme/blob/master/resources/button_pink.PNG)<br />
+
+`.btn .btn-mistygrey`
+![Button primary](https://github.com/kinnarps/Stargate-theme/blob/master/resources/button_mistygrey.PNG)<br />
+
+
