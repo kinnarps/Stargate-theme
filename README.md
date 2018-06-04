@@ -16,7 +16,8 @@
 - ![#25282a](https://placehold.it/15/25282a/000000?text=+) `#25282a Kin black`
 
 ### Links
-`a.kingfisher{
+```
+a.kingfisher{
   color : $kingfisher-blue;
   text-decoration:none;
     &:hover,&:focus {
@@ -24,4 +25,4 @@
       text-decoration:$link-hover-decoration;
      }
  }
-`
+```
