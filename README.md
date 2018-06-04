@@ -4,6 +4,8 @@
 * [Links](#links)
 * [Buttons](#buttons)
 * [Forms](#forms)
+* [Background overlay](#backgroundoverlay)
+
 
 ### Colors
 - ![#00a8df](https://placehold.it/15/00a8df/000000?text=+) `#00a8df Kingfisher blue`
@@ -81,4 +83,10 @@ a.light{
 ##### Form modifiers
 `input.proper` : Removes text transform uppercase<br /><br />
 `input.narrow` : Less padding on input<br />
+
+### Background overlay
+```
+$('.background-overlay').toggleClass("show");
+```
+
 
