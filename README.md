@@ -72,6 +72,6 @@ a.light{
 ### Forms
 
 ##### Form modifiers
-`input.proper` : Removes text transform uppercase
-`input.narrow` : Less padding on input
+`input.proper` : Removes text transform uppercase<br /><br />
+`input.narrow` : Less padding on input<br />
 
