@@ -15,3 +15,13 @@
 - ![#eef1f3](https://placehold.it/15/eef1f3/000000?text=+) `#eef1f3 Light grey`
 - ![#25282a](https://placehold.it/15/25282a/000000?text=+) `#25282a Kin black`
 
+### Links
+`a.kingfisher{
+  color : $kingfisher-blue;
+  text-decoration:none;
+    &:hover,&:focus {
+      color:$kin-black;
+      text-decoration:$link-hover-decoration;
+     }
+ }
+`
