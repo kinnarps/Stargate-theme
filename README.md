@@ -4,7 +4,7 @@
 * [Links](#links)
 * [Buttons](#buttons)
 * [Forms](#forms)
-* [Background overlay](#backgroundoverlay)
+* [Background overlay](#background-overlay)
 
 
 ### Colors
