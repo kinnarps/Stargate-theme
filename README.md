@@ -48,3 +48,6 @@ a.light{
      }
  }
 ```
+
+### Buttons
+[!Button default](https://github.com/kinnarps/Stargate-theme/blob/master/resources/button_default.PNG) `.btn .btn-default`
