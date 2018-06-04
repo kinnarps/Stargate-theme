@@ -16,14 +16,14 @@
 - ![#25282a](https://placehold.it/15/25282a/000000?text=+) `#25282a Kin black`
 
 ```
-$body-bg:						$white;
-$text-color:					$black;
-$link-color:					$black;
-$link-hover-color:				$graphite-grey;
+$body-bg:                   $white;
+$text-color:					      $black;
+$link-color:					      $black;
+$link-hover-color:				  $graphite-grey;
 $link-hover-decoration:			none;
 
-$link-color-light:	$white;
-$link-hover-color-light : $black;
+$link-color-light:	        $white;
+$link-hover-color-light :   $black;
 ```
 
 ### Links
