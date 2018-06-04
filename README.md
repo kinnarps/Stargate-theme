@@ -65,4 +65,6 @@ a.light{
 `.btn .btn-mistygrey`<br />
 ![Button primary](https://github.com/kinnarps/Stargate-theme/blob/master/resources/button_mistygrey.PNG)
 
-
+##### Button modifiers
+`.btn .btn-primary .small`<br />
+![Button primary small](https://github.com/kinnarps/Stargate-theme/blob/master/resources/button_primary_small.PNG)
