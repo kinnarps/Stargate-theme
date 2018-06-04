@@ -15,6 +15,17 @@
 - ![#eef1f3](https://placehold.it/15/eef1f3/000000?text=+) `#eef1f3 Light grey`
 - ![#25282a](https://placehold.it/15/25282a/000000?text=+) `#25282a Kin black`
 
+```
+$body-bg:						$white;
+$text-color:					$black;
+$link-color:					$black;
+$link-hover-color:				$graphite-grey;
+$link-hover-decoration:			none;
+
+$link-color-light:	$white;
+$link-hover-color-light : $black;
+```
+
 ### Links
 ```
 a.kingfisher{
@@ -22,6 +33,17 @@ a.kingfisher{
   text-decoration:none;
     &:hover,&:focus {
       color:$kin-black;
+      text-decoration:$link-hover-decoration;
+     }
+ }
+```
+
+```
+a.light{
+  color : $link-color-light;
+  text-decoration:none;
+    &:hover,&:focus {
+      color:$link-hover-color-light;
       text-decoration:$link-hover-decoration;
      }
  }
