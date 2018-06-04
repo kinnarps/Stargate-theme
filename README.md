@@ -68,3 +68,10 @@ a.light{
 ##### Button modifiers
 `.btn .btn-primary .small`<br />
 ![Button primary small](https://github.com/kinnarps/Stargate-theme/blob/master/resources/button_primary_small.PNG)
+
+### Forms
+
+##### Form modifiers
+`input.proper` : Removes text transform uppercase
+`input.narrow` : Less padding on input
+
