@@ -27,6 +27,8 @@ $link-hover-color-light:    $black;
 ```
 
 ### Links
+
+##### Link modifiers
 ```
 a.kingfisher{
   color : $kingfisher-blue;
