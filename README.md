@@ -50,4 +50,8 @@ a.light{
 ```
 
 ### Buttons
-![Button default](https://github.com/kinnarps/Stargate-theme/blob/master/resources/button_default.PNG) `.btn .btn-default`
+`.btn .btn-default`
+![Button default](https://github.com/kinnarps/Stargate-theme/blob/master/resources/button_default.PNG)
+
+`.btn .btn-primary`
+![Button primary](https://github.com/kinnarps/Stargate-theme/blob/master/resources/button_primary.PNG)
