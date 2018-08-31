@@ -10,7 +10,7 @@
 ### Colors
 - ![#00a8df](https://placehold.it/15/00a8df/000000?text=+) `#00a8df Kingfisher blue`
 - ![#98d6ea](https://placehold.it/15/98d6ea/000000?text=+) `#98d6ea Aqua marine`
-- ![#ede56d](https://placehold.it/15/ede56d/000000?text=+) `#ede56d Lemon yellow`
+- ![#f5eb61](https://placehold.it/15/f5eb61/000000?text=+) `#ede56d Lemon yellow`
 - ![#d6fcd5](https://placehold.it/15/d6fcd5/000000?text=+) `#d6fcd5 Polar green`
 - ![#91d6ac](https://placehold.it/15/91d6ac/000000?text=+) `#91d6ac Spring green`
 - ![#e5b9a7](https://placehold.it/15/e5b9a7/000000?text=+) `#e5b9a7 Salmon`
@@ -70,6 +70,9 @@ a.light{
 
 `.btn .btn-pink`<br />
 ![Button pink](https://github.com/kinnarps/Stargate-theme/blob/master/resources/button_pink.PNG)
+
+`.btn .btn-yellow`<br />
+![Button yellow](https://github.com/kinnarps/Stargate-theme/blob/master/resources/button_pink.PNG)
 
 `.btn .btn-mistygrey`<br />
 ![Button primary](https://github.com/kinnarps/Stargate-theme/blob/master/resources/button_mistygrey.PNG)
