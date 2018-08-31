@@ -72,7 +72,7 @@ a.light{
 ![Button pink](https://github.com/kinnarps/Stargate-theme/blob/master/resources/button_pink.PNG)
 
 `.btn .btn-yellow`<br />
-![Button yellow](https://github.com/kinnarps/Stargate-theme/blob/master/resources/button_pink.PNG)
+![Button yellow](https://github.com/kinnarps/Stargate-theme/blob/master/resources/button_yellow.PNG)
 
 `.btn .btn-mistygrey`<br />
 ![Button primary](https://github.com/kinnarps/Stargate-theme/blob/master/resources/button_mistygrey.PNG)
