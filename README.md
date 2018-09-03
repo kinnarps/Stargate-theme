@@ -85,8 +85,8 @@ a.light{
 
 ##### Form modifiers
 `input.narrow` : Less padding on input<br />
-`label.proper` : Removes text transform uppercase<br /><br />
-`label.block`  : Display block
+`label.proper` : Removes text transform uppercase<br />
+`label.block`  : Display block<br /><br />
 
 ### Background overlay
 ```
