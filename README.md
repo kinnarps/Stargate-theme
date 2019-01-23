@@ -33,7 +33,7 @@ $link-color-light:          $white;
 $link-hover-color-light:    $black;
 ```
 
-### Links
+### Linksss
 
 ##### Link modifiers
 ```
