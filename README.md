@@ -8,7 +8,7 @@
 
 
 ### Colors
-- ![#00a8df](https://placehold.it/15/00a8df/000000?text=+) `#00a8df Kingfisher blue`
+- ![#00a8df](https://via.placeholder.com/15/00a8df/00a8df) `#00a8df Kingfisher blue`
 - ![#98d6ea](https://placehold.it/15/98d6ea/000000?text=+) `#98d6ea Aqua marine`
 - ![#f5eb61](https://placehold.it/15/f5eb61/000000?text=+) `#f5eb61 Lemon yellow`
 - ![#d6fcd5](https://placehold.it/15/d6fcd5/000000?text=+) `#d6fcd5 Polar green`
